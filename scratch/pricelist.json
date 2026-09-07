@@ -1,0 +1,294 @@
+[
+  {
+    "key": "milkTea",
+    "note": "M / L",
+    "items": [
+      {
+        "name": "Classico",
+        "zh": "经典",
+        "price": "4,5 / 5,5"
+      },
+      {
+        "name": "Gelsomino",
+        "zh": "茉莉",
+        "price": "4,5 / 5,5"
+      },
+      {
+        "name": "Vaniglia",
+        "zh": "香草",
+        "price": "4,5 / 5,5"
+      },
+      {
+        "name": "Caramel",
+        "zh": "焦糖",
+        "price": "4,5 / 5,5"
+      },
+      {
+        "name": "Taro",
+        "zh": "芋头",
+        "price": "4,5 / 5,5"
+      },
+      {
+        "name": "Chocolate Oreo",
+        "zh": "巧克力奥利奥",
+        "price": "5 / 6"
+      },
+      {
+        "name": "Tre Fratelli",
+        "zh": "三兄弟",
+        "price": "5 / 6"
+      },
+      {
+        "name": "Mochi",
+        "zh": "麻薯",
+        "price": "5 / 6"
+      },
+      {
+        "name": "Taro Bobo",
+        "zh": "芋圆波波",
+        "price": "5 / 6"
+      },
+      {
+        "name": "Coco Mango",
+        "zh": "椰子芒果",
+        "price": "5 / 6"
+      },
+      {
+        "name": "Coco Caffè",
+        "zh": "椰子咖啡",
+        "price": "5 / 6"
+      },
+      {
+        "name": "Family",
+        "zh": "家庭装",
+        "price": "7"
+      }
+    ]
+  },
+  {
+    "key": "highlights",
+    "items": [
+      {
+        "name": "Matcha con Cheese",
+        "zh": "抹茶芝士",
+        "price": "5"
+      },
+      {
+        "name": "Uva Cheese",
+        "zh": "葡萄芝士",
+        "price": "6"
+      },
+      {
+        "name": "Mango Sago Pomelo",
+        "zh": "芒果西米柚",
+        "price": "6"
+      },
+      {
+        "name": "Super Fruit",
+        "zh": "超级水果",
+        "price": "6"
+      }
+    ]
+  },
+  {
+    "key": "summer",
+    "items": [
+      {
+        "name": "Fragola Cheese",
+        "zh": "草莓芝士",
+        "price": "6"
+      },
+      {
+        "name": "Mango Cheese",
+        "zh": "芒果芝士",
+        "price": "6"
+      },
+      {
+        "name": "Taro Cheese",
+        "zh": "芋头芝士",
+        "price": "6"
+      },
+      {
+        "name": "Litchi Cheese",
+        "zh": "荔枝芝士",
+        "price": "6"
+      },
+      {
+        "name": "Matcha Frappe",
+        "zh": "抹茶冰沙",
+        "price": "6"
+      },
+      {
+        "name": "Chocolate Frappe",
+        "zh": "巧克力冰沙",
+        "price": "6"
+      }
+    ]
+  },
+  {
+    "key": "fruitTea",
+    "items": [
+      {
+        "name": "Pieno di Pompelmo",
+        "zh": "满杯柚子",
+        "price": "6"
+      },
+      {
+        "name": "Peach e Strawberry",
+        "zh": "蜜桃草莓",
+        "price": "6"
+      },
+      {
+        "name": "Passion Fruit",
+        "zh": "百香果",
+        "price": "6"
+      },
+      {
+        "name": "Litchi",
+        "zh": "荔枝",
+        "price": "6"
+      },
+      {
+        "name": "Passion e Pompelmo",
+        "zh": "百香柚子",
+        "price": "6"
+      },
+      {
+        "name": "Lemon Black Tea",
+        "zh": "柠檬红茶",
+        "price": "6"
+      },
+      {
+        "name": "Lemon Green Tea",
+        "zh": "柠檬绿茶",
+        "price": "6"
+      },
+      {
+        "name": "Mango Yakult",
+        "zh": "芒果养乐多",
+        "price": "6"
+      },
+      {
+        "name": "Grape Yakult",
+        "zh": "葡萄养乐多",
+        "price": "6"
+      },
+      {
+        "name": "Lemon Yakult",
+        "zh": "柠檬养乐多",
+        "price": "6"
+      },
+      {
+        "name": "Mango Tea",
+        "zh": "芒果茶",
+        "price": "6"
+      }
+    ]
+  },
+  {
+    "key": "snacks",
+    "items": [
+      {
+        "name": "Hotdog",
+        "zh": "热狗",
+        "price": "2"
+      },
+      {
+        "name": "Popcorn Chicken",
+        "zh": "鸡米花",
+        "price": "6"
+      },
+      {
+        "name": "Tender Crispy",
+        "zh": "鸡柳",
+        "price": "6"
+      },
+      {
+        "name": "Chicken Wings (5pz)",
+        "zh": "海苔肉松炸鸡",
+        "price": "8"
+      },
+      {
+        "name": "Involtini (6pz)",
+        "zh": "春卷",
+        "price": "3,5"
+      },
+      {
+        "name": "Wonton Soup",
+        "zh": "鲜肉馄饨",
+        "price": "7"
+      },
+      {
+        "name": "Taro Ball (20min)",
+        "zh": "芋圆",
+        "price": "6"
+      },
+      {
+        "name": "Takoyaki",
+        "zh": "章鱼小丸子",
+        "price": "6"
+      },
+      {
+        "name": "Meatball",
+        "zh": "瘦肉丸",
+        "price": "8"
+      },
+      {
+        "name": "Suino / Chicken Crepes",
+        "zh": "手抓饼",
+        "price": "7,5"
+      }
+    ]
+  },
+  {
+    "key": "toppings",
+    "prefix": "+",
+    "items": [
+      {
+        "name": "Tapioca",
+        "zh": "波霸",
+        "price": "0,7"
+      },
+      {
+        "name": "Cristallo Bobo",
+        "zh": "水晶波波",
+        "price": "0,7"
+      },
+      {
+        "name": "Sago",
+        "zh": "西米",
+        "price": "0,7"
+      },
+      {
+        "name": "Boba Fragola",
+        "zh": "草莓波霸",
+        "price": "0,7"
+      },
+      {
+        "name": "Taro",
+        "zh": "芋头",
+        "price": "0,7"
+      },
+      {
+        "name": "Cream Cheese",
+        "zh": "奶盖",
+        "price": "0,7"
+      },
+      {
+        "name": "Pudding",
+        "zh": "布丁",
+        "price": "0,7"
+      },
+      {
+        "name": "Jelly Erba",
+        "zh": "仙草",
+        "price": "0,7"
+      },
+      {
+        "name": "Nata de Coco",
+        "zh": "椰果",
+        "price": "0,7"
+      }
+    ]
+  }
+]

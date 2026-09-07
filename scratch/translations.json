@@ -1,0 +1,317 @@
+{
+  "en": {
+    "nav": {
+      "atmosphere": "Atmosphere",
+      "menu": "Menu",
+      "findUs": "Find Us",
+      "guestbook": "Guestbook",
+      "cta": "Find Us"
+    },
+    "hero": {
+      "welcome": "welcome · 欢迎",
+      "title1": "Where Italian dolcezza",
+      "title2": "meets Chinese serenity",
+      "subtitle": "A hidden bubble tea & cake shop in the heart of Brescia — a small sanctuary of fresh boba, handmade cakes, and afternoons that ask nothing of you.",
+      "directions": "Find Us",
+      "bake": "See the Menu"
+    },
+    "atmosphere": {
+      "label": "the atmosphere",
+      "title": "Every cup is happiness",
+      "p1": "Step in and the street softens. Sage walls, pale oak, a row of white stools at the bar and shelves dressed with little objects collected over time. Light falls gently through the window onto the counter where each drink is made by hand.",
+      "p2": "We are a little Chinese-Italian corner — boba and bubble tea from one tradition, cakes and dolcezza from the other, both served in the same quiet, rounded room. Stay a while; there is no hurry here.",
+      "f1t": "Sage & oak",
+      "f1s": "a palette borrowed from stillness",
+      "f2t": "Made by hand",
+      "f2s": "every cup, every cake",
+      "f3t": "No hurry",
+      "f3s": "a room that asks nothing of you"
+    },
+    "menu": {
+      "label": "the menu",
+      "title": "The Menu",
+      "subtitle": "Fresh boba, fruit tea, and handmade cakes — baked and brewed each day. Tap a cake to read more.",
+      "notes": "Tasting notes",
+      "priceTitle": "The Price List",
+      "priceSubtitle": "Everything on the counter, plainly priced. Prices in euro.",
+      "cats": {
+        "milkTea": "Milk Tea",
+        "highlights": "Highlights",
+        "summer": "Summer Series",
+        "fruitTea": "Fruit Tea",
+        "snacks": "Snacks",
+        "toppings": "Toppings",
+        "cakes": "Cakes"
+      },
+      "boardHint": "See our menu boards below"
+    },
+    "location": {
+      "label": "find us",
+      "title": "Find our little corner",
+      "directions": "Get Directions",
+      "guideMe": "Guide me to September",
+      "hoursLabel": "Hours",
+      "phoneLabel": "Call us",
+      "instaLabel": "Follow us",
+      "closed": "Closed",
+      "closedNote": "Closed on Mondays so the kettle may rest",
+      "vibe": {
+        "resting": "Resting — we reopen tomorrow at noon",
+        "morning": "Quiet · we open at noon",
+        "lunch": "Warm & lively · lunchtime pause",
+        "afternoon": "Soft & golden · afternoon tea",
+        "evening": "Closing soon · come back tomorrow"
+      }
+    },
+    "days": {
+      "mon": "Monday",
+      "tue": "Tuesday",
+      "wed": "Wednesday",
+      "thu": "Thursday",
+      "fri": "Friday",
+      "sat": "Saturday",
+      "sun": "Sunday"
+    },
+    "guestbook": {
+      "label": "the guestbook",
+      "title": "A wall of moments",
+      "subtitle": "Words left behind by those who stayed a while."
+    },
+    "reviews": [
+      {
+        "text": "The matcha bubble tea is the best in Brescia, and the cakes look too beautiful to eat. I stayed an hour longer than I meant to.",
+        "author": "Giulia R.",
+        "place": "Brescia"
+      },
+      {
+        "text": "A tiny, calm room with sage walls and the kindest staff. The boba is fresh and the cakes are handmade — it feels like a little secret.",
+        "author": "Marco D.",
+        "place": "Milano"
+      },
+      {
+        "text": "My favourite corner of the city. Soft light, soft music, and a heart-shaped cake that made my whole day.",
+        "author": "Sofia B.",
+        "place": "Verona"
+      }
+    ],
+    "footer": {
+      "tagline": "Bubble Tea & Cake · 奶茶与蛋糕",
+      "description": "A little Chinese-Italian corner in Brescia — fresh boba, handmade cakes, and a quiet room to enjoy them in.",
+      "visit": "Visit",
+      "hours": "Hours",
+      "follow": "Follow",
+      "madeWith": "made with love · 以爱制成",
+      "rights": "Brescia, Italia"
+    }
+  },
+  "it": {
+    "nav": {
+      "atmosphere": "Atmosfera",
+      "menu": "Menù",
+      "findUs": "Trovaci",
+      "guestbook": "Ospiti",
+      "cta": "Trovaci"
+    },
+    "hero": {
+      "welcome": "benvenuti · 欢迎",
+      "title1": "Dove la dolcezza italiana",
+      "title2": "incontra la serenità cinese",
+      "subtitle": "Un piccolo locale di bubble tea e torte nel cuore di Brescia — un rifugio di boba fresco, torte fatte a mano e pomeriggi che non chiedono nulla.",
+      "directions": "Trovaci",
+      "bake": "Vedi il Menù"
+    },
+    "atmosphere": {
+      "label": "l'atmosfera",
+      "title": "Ogni tazza è felicità",
+      "p1": "Entra e la strada si addolcisce. Pareti salvia, quercia pallida, una fila di sgabelli bianchi al bancone e mensole con piccoli oggetti raccolti nel tempo. La luce entra dolce dalla finestra sul bancone dove ogni bevanda è fatta a mano.",
+      "p2": "Siamo un piccolo angolo sino-italiano — boba e bubble tea da una tradizione, torte e dolcezza dall'altra, serviti nella stessa stanza quieta e arrotondata. Fermati un po'; qui non c'è fretta.",
+      "f1t": "Salvia e quercia",
+      "f1s": "una tinta presa in prestito dalla quiete",
+      "f2t": "Fatto a mano",
+      "f2s": "ogni tazza, ogni torta",
+      "f3t": "Senza fretta",
+      "f3s": "una stanza che non chiede nulla"
+    },
+    "menu": {
+      "label": "il menù",
+      "title": "Il Menù",
+      "subtitle": "Boba fresco, tè alla frutta e torte fatte a mano — sfornati e preparati ogni giorno. Tocca una torta per saperne di più.",
+      "notes": "Note di degustazione",
+      "priceTitle": "La Lista dei Prezzi",
+      "priceSubtitle": "Tutto ciò che è sul bancone, con prezzo chiaro. Prezzi in euro.",
+      "cats": {
+        "milkTea": "Milk Tea",
+        "highlights": "In Evidenza",
+        "summer": "Serie Estiva",
+        "fruitTea": "Tè alla Frutta",
+        "snacks": "Snack",
+        "toppings": "Topping",
+        "cakes": "Torte"
+      },
+      "boardHint": "Vedi le nostre lavagne menù qui sotto"
+    },
+    "location": {
+      "label": "trovaci",
+      "title": "Trova il nostro angolino",
+      "directions": "Ottieni indicazioni",
+      "guideMe": "Guidami da September",
+      "hoursLabel": "Orari",
+      "phoneLabel": "Chiamaci",
+      "instaLabel": "Seguici",
+      "closed": "Chiuso",
+      "closedNote": "Chiuso il lunedì per far riposare il bollitore",
+      "vibe": {
+        "resting": "Riposo — riapriamo domani a mezzogiorno",
+        "morning": "Quieto · apriamo a mezzogiorno",
+        "lunch": "Caldo e vivace · la pausa di mezzogiorno",
+        "afternoon": "Morbido e dorato · il tè del pomeriggio",
+        "evening": "Chiudiamo presto · torna domani"
+      }
+    },
+    "days": {
+      "mon": "Lunedì",
+      "tue": "Martedì",
+      "wed": "Mercoledì",
+      "thu": "Giovedì",
+      "fri": "Venerdì",
+      "sat": "Sabato",
+      "sun": "Domenica"
+    },
+    "guestbook": {
+      "label": "il libro degli ospiti",
+      "title": "Un muro di momenti",
+      "subtitle": "Parole lasciate da chi si è fermato un po'."
+    },
+    "reviews": [
+      {
+        "text": "Il bubble tea al matcha è il migliore di Brescia, e le torte sono troppo belle per mangiarle. Sono rimasta un'ora più del previsto.",
+        "author": "Giulia R.",
+        "place": "Brescia"
+      },
+      {
+        "text": "Una stanza piccola e calma con pareti salvia e il personale più gentile. Il boba è fresco e le torte fatte a mano — sembra un piccolo segreto.",
+        "author": "Marco D.",
+        "place": "Milano"
+      },
+      {
+        "text": "Il mio angolo preferito della città. Luce dolce, musica dolce, e una torta a forma di cuore che mi ha reso la giornata.",
+        "author": "Sofia B.",
+        "place": "Verona"
+      }
+    ],
+    "footer": {
+      "tagline": "Bubble Tea & Cake · 奶茶与蛋糕",
+      "description": "Un piccolo angolo sino-italiano a Brescia — boba fresco, torte fatte a mano e una stanza quieta per gustarle.",
+      "visit": "Visita",
+      "hours": "Orari",
+      "follow": "Seguici",
+      "madeWith": "fatto con amore · 以爱制成",
+      "rights": "Brescia, Italia"
+    }
+  },
+  "zh": {
+    "nav": {
+      "atmosphere": "氛围",
+      "menu": "菜单",
+      "findUs": "寻访",
+      "guestbook": "留言",
+      "cta": "寻访"
+    },
+    "hero": {
+      "welcome": "欢迎 · benvenuti",
+      "title1": "意式甜蜜",
+      "title2": "遇见中式宁静",
+      "subtitle": "藏在布雷西亚市中心的小小奶茶蛋糕铺——一处鲜制波霸、手作蛋糕与无所求的午后。",
+      "directions": "寻访我们",
+      "bake": "查看菜单"
+    },
+    "atmosphere": {
+      "label": "氛围",
+      "title": "每一杯都是快乐",
+      "p1": "走进来，街市的喧嚣便轻下来。青瓷色的墙、浅橡木、吧台前一排白凳，与架上慢慢攒起的小物件。光从窗子柔柔落在吧台上，每一杯都由手现做。",
+      "p2": "我们是一处小小的中意角落——波霸与奶茶来自一处，蛋糕与甜蜜来自另一处，都端上同一间安静、圆润的小屋。坐一会儿吧，这里不急。",
+      "f1t": "青瓷与橡木",
+      "f1s": "向宁静借来的色调",
+      "f2t": "手作",
+      "f2s": "每一杯，每一只蛋糕",
+      "f3t": "不急",
+      "f3s": "一间无所求的小屋"
+    },
+    "menu": {
+      "label": "菜单",
+      "title": "菜单",
+      "subtitle": "鲜制波霸、水果茶与手作蛋糕——每日现做现烤。轻触一只蛋糕了解更多。",
+      "notes": "品鉴笔记",
+      "priceTitle": "价目表",
+      "priceSubtitle": "柜台上的每一物，明码标价。价格以欧元计。",
+      "cats": {
+        "milkTea": "奶茶",
+        "highlights": "招牌精选",
+        "summer": "夏日系列",
+        "fruitTea": "水果茶",
+        "snacks": "小吃",
+        "toppings": "加料",
+        "cakes": "蛋糕"
+      },
+      "boardHint": "下方为我们的菜单板"
+    },
+    "location": {
+      "label": "寻访",
+      "title": "找到我们的小角落",
+      "directions": "获取路线",
+      "guideMe": "带我去 September",
+      "hoursLabel": "营业时间",
+      "phoneLabel": "致电",
+      "instaLabel": "关注我们",
+      "closed": "休息",
+      "closedNote": "周一休息，让水壶安眠",
+      "vibe": {
+        "resting": "休息中——明日正午重开",
+        "morning": "宁静·正午开门",
+        "lunch": "温暖热闹·午间小憩",
+        "afternoon": "柔和金黄·午后茶",
+        "evening": "即将打烊·明日再来"
+      }
+    },
+    "days": {
+      "mon": "周一",
+      "tue": "周二",
+      "wed": "周三",
+      "thu": "周四",
+      "fri": "周五",
+      "sat": "周六",
+      "sun": "周日"
+    },
+    "guestbook": {
+      "label": "留言簿",
+      "title": "一面时刻之墙",
+      "subtitle": "留下的人，留下的字。"
+    },
+    "reviews": [
+      {
+        "text": "布雷西亚最好的抹茶奶茶，蛋糕美得舍不得吃。我多待了一整个小时。",
+        "author": "Giulia R.",
+        "place": "布雷西亚"
+      },
+      {
+        "text": "一间青墙、安静的小店，店员温柔。波霸新鲜，蛋糕手作——像一个小秘密。",
+        "author": "Marco D.",
+        "place": "米兰"
+      },
+      {
+        "text": "我在城里最爱的角落。柔光、柔乐，一只心形蛋糕点亮了我整天。",
+        "author": "Sofia B.",
+        "place": "维罗纳"
+      }
+    ],
+    "footer": {
+      "tagline": "奶茶与蛋糕 · Bubble Tea & Cake",
+      "description": "布雷西亚的一处小小中意角落——鲜制波霸、手作蛋糕，与一间安静的小屋。",
+      "visit": "到访",
+      "hours": "营业时间",
+      "follow": "关注",
+      "madeWith": "以爱制成 · fatto con amore",
+      "rights": "布雷西亚，意大利"
+    }
+  }
+}

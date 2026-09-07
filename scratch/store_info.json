@@ -1,0 +1,52 @@
+{
+  "name": "September",
+  "nameZh": "九月",
+  "phone": "+39 377 839 7349",
+  "email": "ciao@septemberbrescia.it",
+  "instagram": "https://www.instagram.com/septemberbrescia/",
+  "addressLines": {
+    "en": [
+      "Via Fratelli Porcellaga, 42",
+      "25122 Brescia BS, Italy"
+    ],
+    "it": [
+      "Via Fratelli Porcellaga, 42",
+      "25122 Brescia BS, Italia"
+    ],
+    "zh": [
+      "Fratelli Porcellaga 街 42 号",
+      "25122 布雷西亚, 意大利"
+    ]
+  },
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Via+Fratelli+Porcellaga+42+Brescia+Italy",
+  "hours": [
+    {
+      "key": "mon",
+      "time": "closed"
+    },
+    {
+      "key": "tue",
+      "time": "12:00–20:30"
+    },
+    {
+      "key": "wed",
+      "time": "12:00–20:30"
+    },
+    {
+      "key": "thu",
+      "time": "12:00–20:30"
+    },
+    {
+      "key": "fri",
+      "time": "12:00–20:30"
+    },
+    {
+      "key": "sat",
+      "time": "12:00–20:30"
+    },
+    {
+      "key": "sun",
+      "time": "12:00–20:30"
+    }
+  ]
+}
